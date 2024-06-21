@@ -1,0 +1,8 @@
+replicaCount: 2
+
+image:
+  repository: my-node-app-image
+  tag: latest
+
+service:
+  port: 8080
